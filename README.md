@@ -40,7 +40,7 @@ This project is intended for beginner developers.
 
 ```
 
-yarn insall
+yarn install
 
 ```
 

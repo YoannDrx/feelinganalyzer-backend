@@ -46,6 +46,15 @@ yarn insall
 
 Sentiment : [https://www.npmjs.com/package/sentiment](https://www.npmjs.com/package/sentiment)
 
+## ⚛️ Tech and Stuff
+
+- HTML
+- CSS
+- JavaScript
+- Node.JS
+- Vercel
+- …
+
 ## 🚀 Deploy 
 
 ⇒ [https://feelinganalyzer-frontend.vercel.app/](https://feelinganalyzer-frontend.vercel.app/)

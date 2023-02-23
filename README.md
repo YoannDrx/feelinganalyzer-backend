@@ -67,4 +67,4 @@ Yoann Drx, Paris, France
 
 ## 🌐 Network
 
-LinkedIn : [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+LinkedIn : [https://www.linkedin.com/in/yoann-andrieux/](https://www.linkedin.com/in/yoann-andrieux/)

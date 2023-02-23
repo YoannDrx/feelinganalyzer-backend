@@ -1,4 +1,4 @@
-# Feeling analyzer
+#  📚 Feeling analyzer
 
 Hi,
 I'm Yoann, I'm currently deepening my knowledge in web development. I'm specialized in React frontend development.
@@ -6,7 +6,7 @@ I had fun coding all these projects!
 Don't hesitate if you have any questions, and have a look at my other projects ;)
 Have fun coding!
 
-## Description 
+## ✍️ Description 
 
 The objective of this challenge is to build an application able to analyze a sentence typed by a user (in English only) and to determine its sentiment
 
@@ -34,7 +34,9 @@ Depending on the received score, you must modify the background color, the descr
 
 This project is intended for beginner developers.
 
-## Getting Started : Dependencies and Other
+## 🎬 Getting Started : Dependencies and Other
+
+!! Be careful, all my projects have a separate backend and frontend, you will find them here on my github.
 
 ```
 
@@ -44,10 +46,16 @@ yarn insall
 
 Sentiment : [https://www.npmjs.com/package/sentiment](https://www.npmjs.com/package/sentiment)
 
-## Authors
+## 🚀 Deploy 
+
+⇒ [https://feelinganalyzer-frontend.vercel.app/](https://feelinganalyzer-frontend.vercel.app/)
+
+Vercel : [https://vercel.com/](https://vercel.com/)
+
+## 🧑‍💻 Authors
 
 Yoann Drx, Paris, France 
 
-## Network
+## 🌐 Network
 
 LinkedIn : [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
